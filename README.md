@@ -27,7 +27,7 @@ The project is in two parts:
 
 ## Project Roadmap & What's Inside?
 
-This repository contains both the library code for each model and the corresponding notebooks.
+This repository contains both the library code for each model and the corresponding notebooks. A more readable version of the project is put up on my [blog](https://devansh-lodha.github.io/blog/) as a series of posts.
 
 ### Part 1: From Scratch
 This phase covers the creation of a complete deep learning library from scratch.
