@@ -29,7 +29,7 @@ The project is in two parts:
 
 This repository contains both the library code for each model and the corresponding notebooks.
 
-### Part: From Scratch
+### Part 1: From Scratch
 This phase covers the creation of a complete deep learning library from scratch.
 
 **Completed**
